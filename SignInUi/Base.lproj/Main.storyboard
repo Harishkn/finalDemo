@@ -131,30 +131,11 @@
                         <outlet property="loginView" destination="agI-he-W7R" id="FfJ-Tz-Rc1"/>
                         <outlet property="textImage" destination="Vcb-rC-P81" id="2rc-XX-Qwi"/>
                         <outlet property="textView" destination="R0z-wM-vZ5" id="87E-UV-bwk"/>
-                        <segue destination="eUX-9c-3Kd" kind="show" id="HvJ-cK-fMo"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="382" y="298"/>
-        </scene>
-        <!--View Controller-->
-        <scene sceneID="dsA-1T-pjJ">
-            <objects>
-                <viewController id="eUX-9c-3Kd" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="74b-cc-dBw"/>
-                        <viewControllerLayoutGuide type="bottom" id="CUS-mR-tRX"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="3Bw-kQ-rG6">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" red="0.0" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="nIN-Fn-JMe" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1138" y="297"/>
         </scene>
     </scenes>
     <resources>
